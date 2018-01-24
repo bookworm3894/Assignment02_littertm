@@ -20,7 +20,7 @@ public class AssignmentYou_littertm {
 		double totalGasExpenses = costOfPremiumGas * gasUsedIn25Miles * averageDaysNannyingInWeek;// Multiply the days I Nanny by the average cost of gas and mileage traveled 
 		System.out.println("This is the Total cost of Gas: $" + totalGasExpenses);
 		
-		int costOfEntertainmentSupplies= 20;// The cost of supplies for entertainment like Arts and Crafts 
+		int costOfEntertainmentSupplies= 50;// The cost of supplies for entertainment like Arts and Crafts 
 		double totalExpensesOfNannying= totalGasExpenses + costOfEntertainmentSupplies;// The total Expenditures for one week of Nannying.
 		System.out.println("This is the Total Expenses of Nannying: $" + totalExpensesOfNannying);
 
